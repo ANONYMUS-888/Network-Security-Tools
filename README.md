@@ -2,7 +2,7 @@
 
 Welcome to my cybersecurity portfolio. This repository contains a collection of custom Python-based networking, offensive security, and defensive monitoring tools. 
 
-These scripts were developed in a dedicated Kali Linux home lab to solidify core concepts from industry-standard materials like *Black Hat Python* and *Linux Basics for Hackers*. To maximize efficiency and ensure modern, robust code structures, I actively utilized AI-assisted development (LLMs) during the coding and troubleshooting process.
+These scripts were developed in a dedicated Kali Linux home lab. The core networking and offensive programming concepts are heavily inspired by **Black Hat Python**, while the foundational OS management and command-line execution environment were mastered through **Linux Basics for Hackers**. To maximize efficiency and ensure modern, robust code structures, I actively utilized AI-assisted development (LLMs) during the coding and troubleshooting process.
 
 **The Goal:** To bridge the gap between theoretical knowledge and practical, hands-on Security Operations (SOC) engineering.
 
