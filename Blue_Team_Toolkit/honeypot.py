@@ -4,7 +4,7 @@ from datetime import datetime
 
 # --- CONFIGURATION ---
 # Insert your Discord Webhook URL here
-WEBHOOK_URL = "https://discord.com/api/webhooks/1482469952660308089/NaYn4_IwRgrD51XqK-_l8t5vaHCtjB3I4nrdXAew07dsyGT24uSbdAuOezXaNzM6JDjR"
+WEBHOOK_URL = "YOUR_DISCORD_WEBHOOK_URL_HERE"
 # The port we open as a trap (Using 2222 so we don't need Admin privileges to run the test)
 HONEYPOT_PORT = 2222
 
