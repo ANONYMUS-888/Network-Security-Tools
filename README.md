@@ -67,6 +67,6 @@ A highly flexible, argparse-supported network client.
 
 All scripts have been actively tested and debugged in a **Kali Linux** environment. 
 * **Dependencies:** Refer to the individual script headers for specific library requirements (e.g., `pymodbus`, `watchdog`, `requests`).
-* **Visual Proof:** Screenshots of successful script executions (including handled exceptions) are included alongside the source code in this repository.
+
 
 > **⚠️ Disclaimer:** All tools within this repository were created for educational purposes and authorized home-lab testing only. I strictly adhere to ethical hacking guidelines. Never execute these tools against systems or networks without explicit, written permission.
